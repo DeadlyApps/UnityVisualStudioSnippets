@@ -24,5 +24,7 @@ Lots of awesome Unity Specific
 ```[RequireComponent(typeof(Type))]```
 
 "sf+TAB"=>
-```    [SerializeField]
-    private GameObject Name;```
+```
+[SerializeField]
+private GameObject Name;
+```
