@@ -10,9 +10,12 @@ Lots of awesome Unity Specific
 
 "ea+TAB" =>     
 ```public event Action EventName = delegate { };```
+
 "gcic+TAB"   =>     
 ```var name = GetComponentInChildren<Type>();```
+
 "gcip+TAB"   =>     
 ```var name = GetComponentInParent<Type>();```
+
 "gc+TAB" => 
 ```var name = GetComponent<Type>();```
