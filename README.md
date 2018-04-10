@@ -1,4 +1,4 @@
-# UnityVisualStudioSnippets
+# Unity Visual Studio Snippets
 Convenience Snippets for Unity3d in Visual Studio.
 
 # Installation 
